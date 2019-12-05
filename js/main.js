@@ -47,6 +47,7 @@ $(document).ready(function() {
     };
 
     var _showingUp = function() { //всплывающее описание сайта
+      console.log("it works again");
       $("header h3").addClass('showingUp');
     };
 
