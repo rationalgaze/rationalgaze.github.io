@@ -1,5 +1,5 @@
 $(document).ready(function() {
-
+  console.log("it works");
   var myApp = (function () {
 
     var lastScrollTop = 0;
